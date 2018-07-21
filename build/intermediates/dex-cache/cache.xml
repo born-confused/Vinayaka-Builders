@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\6b7c9dfec8881fa12efff925c3eec359fdae7521\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_cd0cda6960357874d93d9f4c7a0adec02b83e630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\ea7036adc0ffc9cd66957bd8e74e043b3d9029cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_c7590afe51926a0790566678a4e55e469276bbc9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WELCOME\.android\build-cache\ea7036adc0ffc9cd66957bd8e74e043b3d9029cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7590afe51926a0790566678a4e55e469276bbc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\763e8922d7a004690538d65b4b64cb53752c8aa4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_0fa27b05ed48e65dc29e308f18a0091bda23b621.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WELCOME\.android\build-cache\426c74ba5efc74a42b72ba71f683c64480965fe0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ceae2190978d322f26eebbf3d99f83f17861ab48\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\6c8d7ae0ca674b960b9e2f3c739219b89d31de1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_77b533ee3f0c397d3a9997f2d321282fdf5ba0cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\aced616d259726f13bf4e1ee238dcac29616fb8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_92ba8a93e59ab62eb16de06acd27495b9cd2895c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\9fb324f45b96dce9a4ead51b66e48f75bded3fc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_da12d034b410ca47f7bac11880d1be68c9043122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\50f541b53c2b3e3474acce8280a96cadbb354d84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_7949e28592e9256c9437ecbb3ee91f4f44e9cef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\5a6c2fe8808c7e10d516df518d79680abb63318a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_074ba093aff239d5c2672b279af698487ee5e8a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_9b8383e7a2ce454d8d93dbb3c82acff0d9f8b1fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_33bbf6df727fe6aee704e45dea67836395b401bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\43cee7a06da7736277c8d6169912a899fe5f0066\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_71cb02b212ec70d99b8fc049a07f280a284b8061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\493a42da40411ab3add93c42110cb4563cac276d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_295d535d218bc551df457114d854ba1ae948d9a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\cf08beacfdd5d0f7df690123321fecb0c207aeed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_a7850a8c8b079acf8a2e4982ef25852f6d94186d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WELCOME\.android\build-cache\2282878e5517dde4723cec79a0e9a8981e47e333\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79d5e28dd072bc826fc32c3702db1697c28de5a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d02023cea9730642c72b9dda1f5ff0d6e2c1c9e3">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4426945a850c0f74b6ca6bca2ea9aadfa3dfd6a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\a4a7aa684052a439bc1447d0adef67cdc3a151f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_d0f2130552bea5239b83f4c3efa536f556911a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\2282878e5517dde4723cec79a0e9a8981e47e333\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_79d5e28dd072bc826fc32c3702db1697c28de5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\00c8fc54910708877cafe29cb12dd9649d8da7d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_396597524abcd3ffef70927f67dcb7e355fb7563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\fdae6495a5b66ca30a3d42c6737d61b9c8942adb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_b8892c7e5d287f65afee5870ccca0d50c7f1f0dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\426c74ba5efc74a42b72ba71f683c64480965fe0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_ceae2190978d322f26eebbf3d99f83f17861ab48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_7a4d157362c2b56e2b63157196bfa9abacbee253.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WELCOME\.android\build-cache\953e6762d235855a3a5c7923d95bb9f797286b60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8a24266324b0c009ce46e19944d75ff5d3ab483\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\1e385af9941dff6e0ab843f844c6ee5e930123e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_184d5a932aa77431d12945613e05aed81a9b0a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WELCOME\.android\build-cache\953e6762d235855a3a5c7923d95bb9f797286b60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\WELCOME\AndroidStudioProjects\VinayakaBuilders\app\build\intermediates\pre-dexed\release\classes_c8a24266324b0c009ce46e19944d75ff5d3ab483.jar" />
+    </item>
+
+</items>

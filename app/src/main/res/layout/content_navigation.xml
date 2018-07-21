@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.ample.vinayakabuilders.Navigation"
+    tools:showIn="@layout/app_bar_navigation"
+    android:background="#37474F">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="175dp"
+        android:layout_height="175dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/vinayaka" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:onClick="viewgallery"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="52dp"
+        android:background="#000000"
+        android:layout_marginBottom="5dp"
+        android:text="View Gallery"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:textSize="20sp"
+        android:onClick="locations"
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Locations"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/button2"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="5dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:textSize="20sp"
+        android:onClick="testimonials"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Testimonials"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/button3"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:textSize="20sp"
+        android:onClick="contactus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contacts"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/button4"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="5dp" />
+</RelativeLayout>
